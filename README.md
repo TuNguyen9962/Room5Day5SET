@@ -27,3 +27,7 @@ con sheep
 con tiger
 con lion
 con crab
+
+gà
+heo
+chó
