@@ -17,3 +17,13 @@ Con cá mập
 Con hổ
 Con báo
 Con beo
+
+con cat
+con pig
+con dog
+con chicken
+con cow
+con sheep
+con tiger
+con lion
+con crab
