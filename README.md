@@ -31,3 +31,6 @@ con crab
 gà
 heo
 chó
+bò
+vịt
+chim
