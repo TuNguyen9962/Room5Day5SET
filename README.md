@@ -21,3 +21,6 @@ Con beo
 con cat
 con pig
 con dog
+con chicken
+con cow
+con sheep
