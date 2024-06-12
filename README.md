@@ -24,3 +24,6 @@ con dog
 con chicken
 con cow
 con sheep
+con tiger
+con lion
+con crab
