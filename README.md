@@ -17,3 +17,7 @@ Con cá mập
 Con hổ
 Con báo
 Con beo
+
+con cat
+con pig
+con dog
