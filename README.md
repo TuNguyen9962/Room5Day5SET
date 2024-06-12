@@ -34,3 +34,6 @@ chó
 bò
 vịt
 chim
+rồng
+phụng
+lân
